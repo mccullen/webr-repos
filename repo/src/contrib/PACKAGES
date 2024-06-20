@@ -1,0 +1,7 @@
+Package: SqlRender
+Version: 1.18.0
+Imports: rlang, jsonlite, httr, checkmate
+Suggests: testthat, knitr, rmarkdown, shiny, shinydashboard
+License: Apache License 2.0
+MD5sum: 4281dbe69f68e61c986de71d78a578df
+NeedsCompilation: no
